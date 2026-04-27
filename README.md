@@ -1,1 +1,0 @@
-This code generates 500 fake names.
